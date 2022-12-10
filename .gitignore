@@ -5,3 +5,8 @@ data/.ipynb_checkpoints/test_split-checkpoint.data
 data/.ipynb_checkpoints/fold1-checkpoint.data
 .ipynb_checkpoints/splitting-checkpoint.py
 .ipynb_checkpoints/balancing-checkpoint.py
+.ipynb_checkpoints/balanced_dataset-checkpoint.csv
+.ipynb_checkpoints/dataset-checkpoint.csv
+.ipynb_checkpoints/test_dataset-checkpoint.csv
+.ipynb_checkpoints/train_dataset-checkpoint.csv
+data/.ipynb_checkpoints/dataset-checkpoint.data
