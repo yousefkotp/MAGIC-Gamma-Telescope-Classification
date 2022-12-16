@@ -11,3 +11,4 @@ data/.ipynb_checkpoints/fold1-checkpoint.data
 .ipynb_checkpoints/train_dataset-checkpoint.csv
 data/.ipynb_checkpoints/dataset-checkpoint.data
 model.pt
+h.ipynb
