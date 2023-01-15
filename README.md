@@ -123,7 +123,7 @@ Classification algorithms are used to classify the events into gamma and hadron 
 
 ## Remarks
 
-The README.md file contains an overview of the project, it is recommended to open [notebook](https://github.com/yousefkotp/MAGIC-Gamma-Telescope-Classification/blob/main/notebook.ipynb)as it contains the code and further explanation for the results.
+The README.md file contains an overview of the project, it is recommended to open [notebook](https://github.com/yousefkotp/MAGIC-Gamma-Telescope-Classification/blob/main/notebook.ipynb) as it contains the code and further explanation for the results.
 
 ## Contributers
 
