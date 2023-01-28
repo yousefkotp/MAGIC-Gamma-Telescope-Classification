@@ -16,7 +16,7 @@ Classification of Gamma and Hadron events by training classifieres and machine l
     + [Random Forest Classifier](#random-forest-classifier)
     + [Naive Bayes Classifier](#naive-bayes-classifier)
     + [Neural Network](#neural-network)
-  * [Classiers Comparison](#classiers-comparison)
+  * [Classifiers Comparison](#classifiers-comparison)
   * [Remarks](#remarks)
   * [Contributers](#contributers)
 
@@ -68,7 +68,7 @@ Classification algorithms are used to classify the events into gamma and hadron 
 ### Neural Network 
 - The neural network consists of 2 hidden layers. The number of neurons in each layer is tuned using the cross-validation method. The number of neurons in the first hidden layer is 50 and the number of neurons in the second hidden layer is 90.
 
-## Classiers Comparison
+## Classifiers Comparison
 <table align="center">
     <tr>
         <th>Algorithm</th>
